@@ -1,7 +1,40 @@
-# บัญชีรายรับรายจ่าย (Expense/Income tracker)
-
 ###### [(ระบบนี้ Transfer มาจาก Github Account เก่า --> https://github.com/TOEYJIRAKIT/HTML-RevenueAccounts)](https://github.com/TOEYJIRAKIT/HTML-RevenueAccounts)
 
-## ตัวอย่างผลการทำงาน
-![Expense-Income tracker](https://github.com/user-attachments/assets/70d83645-c2df-45f2-be0f-957ff45635eb)
+## 🚀 **Project Name** :
+Expense/Income Tracker – Salary and Money Tracker Web Application
 
+## 📌 **Project Overview** :
+
+Expense/Income Tracker is a simple and efficient web application designed to help users manage their personal finances by tracking income and expenses. This tool provides a clear financial overview, allowing users to monitor their spending habits, set budgets, and achieve financial goals with ease.
+
+## 🎯 **Objective** :
+
+- Provide an easy-to-use platform for tracking income and expenses.
+- Help users gain better control over their financial management.  
+
+## ✨ **Key Features** :
+
+- **Income & Expense Logging** – Add, Delete transactions.
+- **Real-Time Balance Calculation** – Automatically updates based on input data.
+- **Category-Based Tracking** – Organize transactions into different categories.
+
+## 🛠 **Tech Stack** :
+
+- **Frontend:** CSS3, HTML5, JavaScript
+- **Deployment:** GitHub Pages
+
+## 📂 **GitHub Repository (Source Code)** :
+
+- [https://github.com/TOEYJIRAKID/Revenue-Accounts-Website](https://github.com/TOEYJIRAKID/Revenue-Accounts-Website)
+
+## ⚙️ **Installation & Setup** :
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/TOEYJIRAKID/Revenue-Accounts-Website.git
+   ```  
+2. **Run the code and open http://localhost:<your_port>/ to view the project.**
+
+## 📽️ **Project Preview** :
+
+![Expense-Income tracker](https://github.com/user-attachments/assets/8c33a396-9450-4640-bb77-69c3a9f428a9)
