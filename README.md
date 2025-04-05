@@ -16,7 +16,6 @@ Expense/Income Tracker is a simple and efficient web application designed to hel
 
 - **Income & Expense Logging** – Add, Delete transactions.
 - **Real-Time Balance Calculation** – Automatically updates based on input data.
-- **Category-Based Tracking** – Organize transactions into different categories.
 
 ## 🛠 **Tech Stack** :
 
@@ -33,7 +32,7 @@ Expense/Income Tracker is a simple and efficient web application designed to hel
    ```bash
    git clone https://github.com/TOEYJIRAKID/Revenue-Accounts-Website.git
    ```  
-2. **Run the code and open http://localhost:<your_port>/ to view the project.**
+2. **Run the code and open http://localhost:{port}/ to view the project.**
 
 ## 📽️ **Project Preview** :
 
