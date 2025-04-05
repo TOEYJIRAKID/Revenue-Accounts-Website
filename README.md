@@ -32,7 +32,7 @@ Expense/Income Tracker is a simple and efficient web application designed to hel
    ```bash
    git clone https://github.com/TOEYJIRAKID/Revenue-Accounts-Website.git
    ```  
-2. **Run the code and open http://localhost:{port}/ to view the project.**
+2. **Run the code and open http://localhost:{port} to view the project.**
 
 ## 📽️ **Project Preview** :
 
